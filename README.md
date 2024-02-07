@@ -5,7 +5,7 @@
 ## About Me
 - 🎓 I'm a fourth-year Conjoint Commerce and Computer Science student at Victoria University in Wellington.
 - 💡 I have a passion for Machine Learning and Data Analytics.
-- 🎯 I am interested in how these tools can be effectivley influence bussiness decisions.
+- 🎯 I am interested in how these tools can effectivley influence bussiness decisions.
 
 ## My Projects
 Here's a list of some of the projects I've worked on. Click on the project names to learn more about them and see the code.
