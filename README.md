@@ -3,34 +3,29 @@
 # Hi there, I'm Jackson 👋
 
 ## About Me
-- 🎓 I'm a fourth-year Conjoint Commerce and Computer Science student at Victoria University in Wellington.
-- 💡 I have a passion for Machine Learning and Data Analytics.
-- 🎯 I am interested in how these tools can effectivley influence bussiness decisions.
+- 🎓 I'm a recent Computer Science and Commerce graduate from Victoria University in Wellington.
+- 💡 I have a passion for Machine Learning, Data Analytics, and Full-Stack Development.
+- 🎯 I am interested in how technology and data-driven insights can effectively influence business decisions.
 
-## My Projects
-Here's a list of some of the projects I've worked on. Click on the project names to learn more about them and see the code.
-
-### Machine Learning
-- **Predictive Analysis Model** - A model that predicts [specific outcome] using [techniques/tools used].
-- **Image Recognition System** - An application that identifies objects in images using [tools/techniques].
-
-### Data Analytics
-- **Market Basket Analysis** - An analysis of purchase patterns to drive sales strategies using [tools/techniques].
-- **Social Media Sentiment Analysis** - A tool that gauges public sentiment on various topics using [tools/techniques].
-
-### Web Development
-- **E-commerce Website** - A fully functional online store for [type of products] with an integrated recommendation system.
-- **Portfolio Website** - A personal portfolio website to showcase my projects and skills.
+## My Project
+### Full-Stack Portfolio Website  
+A full-stack website built from scratch to showcase my skills and projects.  
+- **Tech Stack:** React (Frontend), Node.js & Express (Backend), PostgreSQL (Database)  
+- **Features:** User authentication, project showcase, and a contact form  
+- **Deployment:** Hosted on AWS with CI/CD integration  
 
 ## Skills
-- **Languages**: Python, Java, SQL
-- **Tools & Technologies**: TensorFlow, Keras, PyTorch, Scikit-Learn, Pandas, NumPy
-- **Web Development**: HTML, CSS, JavaScript, React
+- **Languages:** Python, Java, C, SQL, JavaScript  
+- **Databases:** MySQL, PostgreSQL  
+- **Web Development:** HTML, CSS, JavaScript, React, Node.js, Express.js  
+- **Machine Learning & Data Science:** TensorFlow, Scikit-Learn, Pandas, NumPy  
+- **Cloud & DevOps:** AWS, Docker, Git, CI/CD  
+- **Cybersecurity & Secure Programming:** Secure coding principles, SQL injection prevention, XSS mitigation  
+- **Software Engineering Concepts:** Database management, object-oriented programming, system design  
 
 ## Let's Connect!
-- 💼 [LinkedIn Profile](Your LinkedIn URL)
-- 📫 How to reach me: jackswhite3@gmail.com
-- 📄 [Resume](Link to your resume)
+- 📫 How to reach me: jackswhite3@gmail.com  
+- 📄 [Resume](Link to your resume)  
 
----
+
 
