@@ -25,7 +25,5 @@ A full-stack website built from scratch to showcase my skills and projects.
 
 ## Let's Connect!
 - 📫 How to reach me: jackswhite3@gmail.com  
-- 📄 [Resume](Link to your resume)  
-
 
 
